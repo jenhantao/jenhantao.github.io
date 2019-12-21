@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-The human genome encodes key determinants for our health in a language that balances a simple alphabet of ACGTs and sophisticated grammar rules that allow for cell type and context specific gene expression. My research focuses on training machine learning models to learn to read the genome and then interrogating the inner workings of these models to advance our understanding of the how the genome is interpreted. 
+The human genome encodes key determinants for our health in a language that balances a simple alphabet of ACGTs and sophisticated grammar rules that allow for cell type and context specific gene expression. I'm interested in training machine learning models using biological data and then interrogating those models to advance our understanding of the how the genome relates to our health and predisposition to disease.
 
-I am currently a Ph.D. student in the Bioinformatics program at UC San Diego.My thesis work has been supervised by Dr. Christopher Glass and Dr. Christopher Benner.
+I am currently a computational biologist at VL56, a [https://www.flagshippioneering.com](Flagship Pioneering).
+
+Previously, I was a bioinformatics scientist at Illumina where I worked to develop computational methods to improve our ability to diagnose cancer using next generation sequencing data.
+
+I completed my PhD studies at UC San Diego, where I applied machine learning techniques to uncover [https://www.nature.com/articles/s41467-018-08236-0](how the genome is read by transcription factors) in the macrophage, a critical component of the innate immune system. My thesis work was supervised by [http://cmm.ucsd.edu/glass/glasslab/about.html](Dr. Christopher Glass) and [http://homer.ucsd.edu/BennerLab/](Dr. Christopher Benner).
