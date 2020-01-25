@@ -10,7 +10,7 @@ redirect_from:
 
 The human genome encodes key determinants for our health in a language that balances a simple alphabet of ACGTs and sophisticated grammar rules that allow for cell type and context specific gene expression. I'm interested in training machine learning models using biological data and then interrogating those models to advance our understanding of the how the genome relates to our health and predisposition to disease.
 
-I am currently a computational biologist at VL56, a [Flagship Pioneering](https://www.flagshippioneering.com) company.
+I am currently a computational biologist at Generate Biosciences, a [Flagship Pioneering](https://www.flagshippioneering.com) company.
 
 Previously, I was a bioinformatics scientist at Illumina where I worked to develop computational methods to improve our ability to diagnose cancer using next generation sequencing data.
 
